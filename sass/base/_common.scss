@@ -1,0 +1,23 @@
+.body {
+  font-family: 'Roboto', sans-serif;
+  color: var(--primary-grey-dark);
+  background-color: var(--color-white);
+}
+
+body.modal-open {
+  overflow: hidden;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
